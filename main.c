@@ -2,6 +2,8 @@
 #include <util/delay.h>
 #include <stdlib.h>
 
+
+
 // Define potentiometer (analog input) and LED (PWM output) pins
 #define POT1 1
 #define POT2 2
